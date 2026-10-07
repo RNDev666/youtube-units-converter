@@ -8,7 +8,7 @@ seamlessly with YouTube videos, offering the choice between Metric and Imperial 
 
 ## Features
 
-- **Open Source & Privacy-Oriented**: Accessible on [GitHub](https://github.com/bezalel6/youtube-units-converter) with a
+- **Open Source & Privacy-Oriented**: Accessible on [GitHub](https://github.com/RNDev666/youtube-units-converter) with a
   commitment to not saving user data.
 - **User Preference**: Choose between Metric or Imperial units.
 - **Customization**: Personalize overlay text color and size.
@@ -31,12 +31,12 @@ customized overlay.
 ## Support and Feedback
 
 For support, questions, or feedback, contact me at [support@rndev.lol](mailto:support@rndev.lol) or raise an issue on
-the [GitHub repository](https://github.com/bezalel6/youtube-units-converter).
+the [GitHub repository](https://github.com/RNDev666/youtube-units-converter).
 
 ## Contributing
 
 Contributions are welcome. Feel free to fork the repository, make improvements, and submit pull
-requests.[GitHub page](https://github.com/bezalel6/youtube-units-converter).
+requests.[GitHub page](https://github.com/RNDev666/youtube-units-converter).
 
 ## License
 
@@ -52,4 +52,4 @@ With EZUnits, enjoy seamless unit conversions on YouTube, where privacy and user
 Loved EZUnits? If you find it helpful, consider supporting my work. A coffee goes a long way in fueling my coding
 sessions! ☕
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/RNDev)
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/rndev666)

@@ -36,7 +36,7 @@
   "host_permissions": [
     "*://*/"
   ],
-  "homepage_url": "https://github.com/bezalel6/youtube-units-converter",
+  "homepage_url": "https://github.com/RNDev666/youtube-units-converter",
   "permissions": [
     "webNavigation",
     "tabs",

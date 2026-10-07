@@ -14,7 +14,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bezalel6/youtube-units-converter"
+    "url": "https://github.com/RNDev666/youtube-units-converter"
   },
   "license": "GPL-3.0",
   "dependencies": {
